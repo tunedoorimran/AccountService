@@ -1,0 +1,13 @@
+# Spring Properties
+spring:
+  application:
+     name: account-service
+
+# Discovery Server Access
+eureka:
+  client:
+    enabled: false
+
+# HTTP Server
+server:
+  port: 2222   # HTTP (Tomcat) port

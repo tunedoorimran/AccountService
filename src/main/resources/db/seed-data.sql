@@ -1,0 +1,10 @@
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (1, 1,200);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (2, 2,500);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (3, 3,705);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (4, 4,922);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (5, 5,44);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (6, 6,326);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (7, 7,774);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (8, 8,848);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (9, 9,555);
+insert into T_ACCOUNT (ID, USER_ID,BALANCE) values (10, 10,123);
